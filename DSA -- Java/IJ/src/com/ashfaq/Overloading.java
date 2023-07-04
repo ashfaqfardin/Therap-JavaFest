@@ -14,8 +14,8 @@ public class Overloading {
     static void fun(int ...v){
         System.out.println(Arrays.toString(v));
     }
-    static void fun(String ...v){
-        System.out.println(Arrays.toString(v));
+    static void fun(String ...x){
+        System.out.println(Arrays.toString(x));
     }
 
     static void fun(int a){
