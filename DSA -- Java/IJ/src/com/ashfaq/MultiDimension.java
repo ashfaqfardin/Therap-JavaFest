@@ -51,7 +51,10 @@ public class MultiDimension {
 
         // String array
         String[] str = new String[4];
+        //input
+        //....... write code in here
         System.out.println(str[0]);
+        // print
         for (String element : str){
             System.out.println(element);
         }
