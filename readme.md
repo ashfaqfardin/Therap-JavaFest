@@ -25,3 +25,5 @@
 ## Puzzle
 - Simple puzzle
 - Math Puzzle
+
+## Preparation Note
